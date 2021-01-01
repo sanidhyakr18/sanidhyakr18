@@ -21,10 +21,17 @@
   <img align="left" alt="Sanidhya's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
+<br />
+<br />
+
+I'm a Sophomore at Delhi Technological University (DTU), majoring in Electronics & Communication Engg.
+
 <br/>
 <br/>
 
-Sophomore at Delhi Technological University (formerly DCE), majoring in Electronics & Communication Engg.
+  <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+
+**About me:**
 
 - 🛠 I'm an Android App Developer
 - 🔬 Loves to explore the endless possibilities of technology
@@ -35,13 +42,14 @@ Sophomore at Delhi Technological University (formerly DCE), majoring in Electron
 <br/>
 <br/>
 
-<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+![Sanidhya's github stats](https://github-readme-stats.vercel.app/api?username=sanidhyakr18&show_icons=true&hide_border=true&count_private=true)
 
-<!-- When I am not coding, I love to travel with music ON to spark my imagination and explore new ideas. 
-I also play chess and write articles in my free time. -->
+
+
 <!--
 **sanidhyakr18/sanidhyakr18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+When I am not coding, I love to travel with music ON to spark my imagination and explore new ideas. 
+I also play chess and write articles in my free time.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
