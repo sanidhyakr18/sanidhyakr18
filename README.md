@@ -21,13 +21,14 @@
   <img align="left" alt="Sanidhya's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
-<br />
-<br />
+<br/>
+<br/>
 
 I'm a Sophomore at Delhi Technological University (DTU), majoring in Electronics & Communication Engg.
 
   <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
-  
+
+<br/>
 **About me:**
 
 - 🛠 I'm an Android App Developer
