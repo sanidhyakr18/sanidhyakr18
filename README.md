@@ -1,6 +1,6 @@
-## Hello, world! I am Sanidhya 👋
+## Hola, amigos! I am Sanidhya 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanidhyakr18&label=Profile+Views&color=brightgreen&style=plastic" alt="sanidhyakr18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanidhyakr18&label=Views&color=brightgreen&style=plastic" alt="sanidhyakr18" /> </p>
 
 <a href="https://twitter.com/sanidhyakr18">
   <img align="left" alt="Sanidhya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -23,6 +23,22 @@
 
 <br/>
 <br/>
+
+Sophomore at Delhi Technological University (formerly DCE), majoring in Electronics & Communication Engg.
+
+- 🛠 I'm an Android App Developer
+- 🔬 Loves to explore the endless possibilities of technology
+- 👨🏻‍💻 Currently, looking to collaborate on some cool projects
+- ⚡️ Fun-Fact: Traveling helps to spark our imagination
+- 📫 Want to reach me? Connect with me on [LinkedIn](https://linkedin.com/in/sanidhyakr18)
+
+<br/>
+<br/>
+
+<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+
+<!-- When I am not coding, I love to travel with music ON to spark my imagination and explore new ideas. 
+I also play chess and write articles in my free time. -->
 <!--
 **sanidhyakr18/sanidhyakr18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
