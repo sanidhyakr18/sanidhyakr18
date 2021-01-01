@@ -29,6 +29,7 @@ I'm a Sophomore at Delhi Technological University (DTU), majoring in Electronics
   <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 <br/>
+
 **About me:**
 
 - 🛠 I'm an Android App Developer
