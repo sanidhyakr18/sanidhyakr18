@@ -36,8 +36,6 @@ I'm a Sophomore at Delhi Technological University (DTU), majoring in Electronics
 - ⚡️ Fun-Fact: Traveling helps to spark our imagination
 - 📫 Want to reach me? Connect with me on [LinkedIn](https://linkedin.com/in/sanidhyakr18)
 
-<br/>
-
 ![Sanidhya's github stats](https://github-readme-stats.vercel.app/api?username=sanidhyakr18&show_icons=true&hide_border=true&count_private=true)
 
 
