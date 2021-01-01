@@ -22,13 +22,14 @@
 </a>
 
 <br />
+<br />
 
 I'm a Sophomore at Delhi Technological University (DTU), majoring in Electronics & Communication Engg.
 
 <br/>
 
   <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
-
+  
 **About me:**
 
 - 🛠 I'm an Android App Developer
