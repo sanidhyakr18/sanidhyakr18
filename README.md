@@ -24,7 +24,7 @@
 <br/>
 <br/>
 
-I'm a Sophomore at Delhi Technological University (DTU), majoring in Electronics & Communication Engg.
+I'm a Junior at Delhi Technological University (DTU), majoring in Electronics & Communication Engg.
 
   <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
@@ -32,7 +32,7 @@ I'm a Sophomore at Delhi Technological University (DTU), majoring in Electronics
 
 **About me:**
 
-- 🛠 I'm an Android App Developer and a beginner in Frontend Development
+- 🛠 Intermediate Android App Developer and a beginner in Frontend Development
 - 🔬 Loves to explore the endless possibilities of technology
 - 👨🏻‍💻 Currently, learning backend development
 - ⚡️ Fun-Fact: Traveling helps to spark our imagination
