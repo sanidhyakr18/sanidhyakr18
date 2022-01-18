@@ -32,9 +32,9 @@ I'm a Sophomore at Delhi Technological University (DTU), majoring in Electronics
 
 **About me:**
 
-- 🛠 I'm an Android App Developer
+- 🛠 I'm an Android App Developer and a beginner in Frontend Development
 - 🔬 Loves to explore the endless possibilities of technology
-- 👨🏻‍💻 Currently, looking to collaborate on some cool projects
+- 👨🏻‍💻 Currently, learning backend development
 - ⚡️ Fun-Fact: Traveling helps to spark our imagination
 - 📫 Want to reach me? Connect with me on [LinkedIn](https://linkedin.com/in/sanidhyakr18)
 
