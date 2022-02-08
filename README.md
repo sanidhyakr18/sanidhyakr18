@@ -32,7 +32,7 @@ I'm a Junior at Delhi Technological University (DTU), majoring in Electronics & 
 
 **About me:**
 
-- 🛠 Intermediate Android App Developer and a beginner in Frontend Development
+- 🛠 Android and Backend Developer 
 - 🔬 Loves to explore the endless possibilities of technology
 - 👨🏻‍💻 Currently, learning backend development
 - ⚡️ Fun-Fact: Traveling helps to spark our imagination
