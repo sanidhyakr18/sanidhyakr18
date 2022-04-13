@@ -32,16 +32,17 @@ I'm a Junior at Delhi Technological University (DTU), majoring in Electronics & 
 
 **About me:**
 
-- 🛠 Android and Backend Developer 
-- 🔬 Loves to explore the endless possibilities of technology
+- 🛠 Android and Backend Developer
 - 👨🏻‍💻 Currently, learning backend development
 - ⚡️ Fun-Fact: Traveling helps to spark our imagination
 - 📫 Want to reach me? Connect with me on [LinkedIn](https://linkedin.com/in/sanidhyakr18)
 
-![Sanidhya's github stats](https://github-readme-stats.vercel.app/api?username=sanidhyakr18&show_icons=true&hide_border=true&count_private=true)
+## 📖 Stats
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sanidhyakr18&show_icons=true&hide_border=true&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyakr18" />
 
 
-
+<!-- ![Sanidhya's github stats](https://github-readme-stats.vercel.app/api?username=sanidhyakr18&show_icons=true&hide_border=true&count_private=true) -->
 <!--
 **sanidhyakr18/sanidhyakr18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 When I am not coding, I love to travel with music ON to spark my imagination and explore new ideas. 
