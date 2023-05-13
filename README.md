@@ -32,8 +32,8 @@ I'm a Junior at Delhi Technological University (DTU), majoring in Electronics & 
 
 **About me:**
 
-- 🛠 Android and Backend Developer
-- 👨🏻‍💻 Currently, learning backend development
+- 🛠 Android and  Full Stack Developer
+- 👨🏻‍💻 Currently, workin on Spring Boot and Angular
 - ⚡️ Fun-Fact: Traveling helps to spark our imagination
 - 📫 Want to reach me? Connect with me on [LinkedIn](https://linkedin.com/in/sanidhyakr18)
 
