@@ -37,10 +37,11 @@ I'm a Software Engineer at BNY.
 - ⚡️ Fun-Fact: Traveling helps to spark our imagination
 - 📫 Want to reach me? Connect with me on [LinkedIn](https://linkedin.com/in/sanidhyakr18)
 
+<!--
 ## 📖 Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sanidhyakr18&show_icons=true&hide_border=true&count_private=true" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyakr18" />
-
+-->
 
 <!-- ![Sanidhya's github stats](https://github-readme-stats.vercel.app/api?username=sanidhyakr18&show_icons=true&hide_border=true&count_private=true) -->
 <!--
