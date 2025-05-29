@@ -33,7 +33,7 @@ I'm a Software Engineer at BNY.
 **About me:**
 
 - 🛠 Android and  Full Stack Developer
-- 👨🏻‍💻 Currently, workin on Spring Boot and Angular
+- 👨🏻‍💻 Currently, working on Spring Boot and Angular
 - ⚡️ Fun-Fact: Traveling helps to spark our imagination
 - 📫 Want to reach me? Connect with me on [LinkedIn](https://linkedin.com/in/sanidhyakr18)
 
